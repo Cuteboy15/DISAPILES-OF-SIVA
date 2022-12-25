@@ -1,7 +1,7 @@
 [![masterhead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Shiva</h1>
 <h3 align="center">Inspired by disapiles of Gilbert</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1203428/screenshots/4669954/hologram-3.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/121051845/209466625-b5b4994d-4dc1-4b25-892d-4de2360f7a19.png">
 - 🌱 I’m currently learning **Python & html**
 
 - 👯 I’m looking to collaborate on **Elan mask**
